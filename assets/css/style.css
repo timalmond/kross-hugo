@@ -41,7 +41,7 @@ h6 {
 
 h1,
 .h1 {
-  font-size: 80px
+  font-size: 72px
 }
 
 @media(max-width:991px) {
@@ -459,7 +459,7 @@ textarea.form-control {
 }
 
 .hero-area {
-  padding: 250px 0 200px;
+  padding: 200px 0 30px;
   position: relative
 }
 
@@ -769,7 +769,7 @@ blockquote {
 }
 
 .page-title-alt {
-  padding: 350px 0 70px
+  padding: 190px 0 70px
 }
 
 .border-thick {
@@ -830,7 +830,7 @@ blockquote {
 }
 
 .page-title {
-  padding: 250px 0 150px
+  padding: 150px 0 100px
 }
 
 .page-title .container {
